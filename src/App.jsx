@@ -10,6 +10,7 @@ function App() {
     <GlobalProvider>
       <Heder />
       <Balance />
+      <TransactionForm />
 
       <h1>Hola mundo</h1>
     </GlobalProvider>
